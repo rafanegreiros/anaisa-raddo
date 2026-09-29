@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "variants": {
+    "desktop": {
+      "width": 1280,
+      "height": 854
+    },
+    "mobile": {
+      "width": 720,
+      "height": 480
+    }
+  },
+  "clips": [
+    {
+      "id": 1,
+      "source": "01 - magnific_create-a-seamless-cinemat_xSZKi3RjfW.mp4",
+      "frames": 121,
+      "fps": 24,
+      "sourceWidth": 1764,
+      "sourceHeight": 1176
+    },
+    {
+      "id": 2,
+      "source": "02 - magnific_create-a-single-continuou_gOnjvxkSXO.mp4",
+      "frames": 121,
+      "fps": 24,
+      "sourceWidth": 1764,
+      "sourceHeight": 1176
+    },
+    {
+      "id": 3,
+      "source": "03 - magnific_reate-one-seamless-contin_iGoBC4C3uK.mp4",
+      "frames": 158,
+      "fps": 24,
+      "sourceWidth": 1764,
+      "sourceHeight": 1176
+    },
+    {
+      "id": 4,
+      "source": "04 - magnific_create-one-seamless-conti_p855d5Lehw.mp4",
+      "frames": 191,
+      "fps": 24,
+      "sourceWidth": 1764,
+      "sourceHeight": 1176
+    }
+  ],
+  "totalFrames": 591
+}
